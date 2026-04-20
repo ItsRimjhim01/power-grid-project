@@ -1,0 +1,26 @@
+[
+  {
+    "task": "ingest",
+    "artifact": "data/raw/ingested_raw.csv",
+    "status": "SUCCESS",
+    "run_at": "2026-04-18 06:57:43.200781"
+  },
+  {
+    "task": "process",
+    "artifact": "data/processed/power_processed.csv",
+    "status": "SUCCESS",
+    "run_at": "2026-04-18 06:57:43.200902"
+  },
+  {
+    "task": "load_ops",
+    "artifact": "data/processed/powergrid_ops.db",
+    "status": "SUCCESS",
+    "run_at": "2026-04-18 06:57:43.201041"
+  },
+  {
+    "task": "load_dw",
+    "artifact": "data/warehouse/powergrid_star.db",
+    "status": "SUCCESS",
+    "run_at": "2026-04-18 06:57:43.201139"
+  }
+]

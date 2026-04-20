@@ -1,0 +1,33 @@
+{
+  "total_records": 100,
+  "avg_consumption": 251.26,
+  "peak_consumption": 477.33,
+  "anomalies": 0,
+  "region_stats": {
+    "mean": {
+      "East": 278.35,
+      "North": 220.39,
+      "South": 240.26,
+      "West": 260.47
+    },
+    "max": {
+      "East": 477.33,
+      "North": 401.95,
+      "South": 437.21,
+      "West": 455.93
+    },
+    "min": {
+      "East": 64.87,
+      "North": 108.52,
+      "South": 94.52,
+      "West": 91.29
+    }
+  },
+  "load_distribution": {
+    "Low": 40,
+    "Normal": 28,
+    "High": 24,
+    "Critical": 8
+  },
+  "generated_at": "2026-04-18 06:57:43.210044"
+}

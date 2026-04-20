@@ -1,0 +1,5 @@
+region,avg_consumption,max_consumption,min_consumption,total_records
+East,278.35,477.33,64.87,25
+North,220.39,401.95,108.52,18
+South,240.26,437.21,94.52,32
+West,260.47,455.93,91.29,25
